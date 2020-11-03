@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  color: #e5e5e5;
+  background: #141414;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body, button, input, textarea {
+  font: 400 clamp(1.2rem, 1.5vw, 2rem)/1 'Helvetica', sans-serif;
+}
