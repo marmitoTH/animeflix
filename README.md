@@ -1,10 +1,14 @@
 <p align="center">
   <img src='https://user-images.githubusercontent.com/25598040/98017361-e4e31f80-1ddd-11eb-93a2-8babcf4dee9c.png'>
   <p align='center'>
-    <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square&link=https://reactjs.org/">
-    <img src="https://img.shields.io/badge/Lucas-social-green?logo=linkedin&style=social&link=https://www.linkedin.com/in/lucas-rodrigues-985918197/">
+    <a href='https://reactjs.org' target='__blank'>
+        <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square&link=https://reactjs.org">
+    </a>
+    <a href='https://www.linkedin.com/in/lucas-rodrigues-985918197' target='__blank'>
+        <img src="https://img.shields.io/badge/Lucas-social-green?logo=linkedin&style=social&link=https://www.linkedin.com/in/lucas-rodrigues-985918197">
+    </a>
   </p>
-</p><br>
+</p>
 
 ## About
 
